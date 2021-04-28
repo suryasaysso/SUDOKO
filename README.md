@@ -1,4 +1,4 @@
-# redantllc_task - READ ME 
+# Red Ant Media LLC - READ_ME file for task 
 I have attached the code for the following question.
 
                                   Cathy works as an editor in a magazine. She is responsible for the games and puzzles
